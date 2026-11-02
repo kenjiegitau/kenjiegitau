@@ -21,11 +21,17 @@ Built a **local, Azure-compatible SaaS performance reporting prototype** using P
 
 ## Research and Upcoming Projects
 
-### 🔐 Network Traffic Obfuscation Research — Completed Dissertation
+### 🔐 Network Traffic Obfuscation Research — First-Class Project
 
-**Evaluating the Effectiveness of Traffic Obfuscation Techniques Against Traffic Analysis Attacks in Defence-Oriented Environments**
+**University of West London | BSc (Hons) Cyber Security**
 
-Investigated approaches such as packet padding, timing manipulation and traffic shaping, examining trade-offs between privacy, detectability and performance. Preparing a public-facing technical research case study from the completed dissertation.
+**Project Grade: First Class (1st)**
+
+*Evaluating the Effectiveness of Traffic Obfuscation Techniques Against Traffic Analysis Attacks in Defence-Oriented Network Environments*
+
+Conducted experimental network security research investigating packet padding, timing manipulation and traffic obfuscation techniques within simulated defence-oriented environments.
+
+Used Python and Wireshark to evaluate encrypted network traffic, identify observable metadata patterns and assess the effectiveness and limitations of traffic obfuscation.
 
 ### 🏗️ AWS Solutions Architecture — Planned
 
@@ -43,6 +49,11 @@ Developing a client-focused case study covering technical assessment, solution o
 | Architecture and solutions | Requirements analysis, solution design, integration, testing, technical documentation |
 | Networking and cybersecurity | Linux, Wireshark, network traffic analysis, security research |
 | Current development focus | AWS architecture, cloud solutions engineering, technical consulting |
+
+## Education
+
+**BSc (Hons) Cyber Security — Upper Second-Class Honours (2:1)**  
+University of West London | 2026
 
 ## Let's Connect
 
