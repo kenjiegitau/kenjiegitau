@@ -17,26 +17,9 @@ Built a **local, Azure-compatible SaaS performance reporting prototype** using P
 - Created **8 automated tests**, with a successful **GitHub Actions CI** run.
 - Documented the workflow, architecture, local setup and limitations.
 
-**Skills demonstrated:** Python · Azure Functions · Blob Storage SDK · Azurite · pytest · GitHub Actions
+**Skills demonstrated:** Python · Azure Functions · Azure Blob Storage SDK · Azurite · pytest · Git · GitHub · GitHub Actions · CI/CD · JSON Processing
 
-## Research and Projects
-
-### 🔐 [Network Traffic Obfuscation Research](https://github.com/kenjiegitau/defence-network-traffic-research)
-
-**University of West London | BSc (Hons) Cyber Security**
-
-**Project Grade: First Class (1st)**
-
-*Evaluating the Effectiveness of Traffic Obfuscation Techniques Against Traffic Analysis Attacks in Defence-Oriented Network Environments*
-
-Conducted experimental network security research investigating packet padding, timing manipulation and traffic obfuscation techniques within simulated defence-oriented environments.
-
-Used Python and Wireshark to evaluate encrypted network traffic, identify observable metadata patterns and assess the effectiveness and limitations of traffic obfuscation.
-
-**Skills demonstrated:** Network Security · Wireshark · Python · Encrypted Traffic Analysis · Traffic Obfuscation · Experimental Research
-
-📄 [View Full Research, Technical Findings & Wireshark Evidence](https://github.com/kenjiegitau/defence-network-traffic-research)
-
+## Projects & Research
 
 ### ☁️ [AWS Solutions Architecture](https://github.com/kenjiegitau/aws-solutions-architecture)
 
@@ -45,7 +28,6 @@ Designed and documented a secure, scalable serverless architecture for a hypothe
 The case study demonstrates cloud solution design, identity and access management (IAM), security, availability, scalability, cost considerations and the technical reasoning behind architectural decisions.
 
 **Technologies:** AWS · CloudFront · S3 · Cognito · API Gateway · Lambda · DynamoDB · IAM · CloudWatch
-
 
 ### 🤝 [Cross-Border Technology Strategy & Security Architecture](https://github.com/kenjiegitau/cross-border-technology-consulting)
 
@@ -68,18 +50,35 @@ Produced a structured consulting assessment covering business requirements, cybe
 
 **Skills demonstrated:** Technical Consulting · Cloud Solution Architecture · IAM · Requirements Engineering · Cybersecurity Strategy · Risk Assessment · Commercial Evaluation · Stakeholder Communication
 
+### 🔐 [Network Traffic Obfuscation Research](https://github.com/kenjiegitau/defence-network-traffic-research)
+
+**University of West London | BSc (Hons) Cyber Security**
+
+**Project Grade: First Class (1st)**
+
+*Evaluating the Effectiveness of Traffic Obfuscation Techniques Against Traffic Analysis Attacks in Defence-Oriented Network Environments*
+
+Conducted experimental network security research investigating packet padding, timing manipulation and traffic obfuscation techniques within simulated defence-oriented environments.
+
+Used Python and Wireshark to evaluate encrypted network traffic, identify observable metadata patterns and assess the effectiveness and limitations of traffic obfuscation.
+
+**Skills demonstrated:** Linux · Linux CLI · Python · Wireshark · Network Security · DNS · HTTP · TCP/TLS · Packet Analysis · Encrypted Traffic Analysis · Traffic Obfuscation · Experimental Research
+
+📄 [View Full Research, Technical Findings & Wireshark Evidence](https://github.com/kenjiegitau/defence-network-traffic-research)
+
 ## Technical Focus
 
 | Focus Area | Relevant Technologies & Capabilities |
 | --- | --- |
-| Cloud & Automation | Python, Azure Functions, Azure Blob Storage SDK, Azurite, GitHub Actions, pytest |
-| Cloud Solutions Architecture | Microsoft 365, Entra ID, SaaS architecture, secure cloud access, solution evaluation |
-| Identity & Access Management (IAM) | MFA, Conditional Access, RBAC, least privilege, user lifecycle management, access governance |
-| Technical Consulting | Business requirements, stakeholder engagement, technical assessments, solution recommendations, implementation roadmaps |
-| Cybersecurity Architecture | Security controls, risk assessment, endpoint security, data protection, governance |
-| Networking & Security Research | Linux, Wireshark, network traffic analysis, Python, traffic obfuscation research |
-| Commercial & Solution Evaluation | Licensing costs, architectural trade-offs, business requirements, scalability and operational considerations |
-| Current Development Focus | AWS Solutions Architecture, customer-facing cloud engineering, technical solution design |
+| Cloud & Python Automation | Python 3.12, Azure Functions, Azure Blob Storage SDK, Azurite, JSON processing, scheduled workflows |
+| AWS Solutions Architecture (Design) | AWS CloudFront, S3, Cognito, API Gateway, Lambda, DynamoDB, IAM, CloudWatch, serverless architecture |
+| Microsoft Cloud Architecture (Design) | Microsoft 365, Microsoft Entra ID, Intune, Defender for Business, SharePoint, OneDrive, Teams |
+| Identity & Access Management (IAM) | AWS IAM, Cognito, Entra ID, MFA, Conditional Access, RBAC, least privilege, access governance |
+| Development, Testing & CI/CD | Python, Git, GitHub, GitHub Actions, pytest, automated testing, version control |
+| Networking & Security Research | Linux, Linux CLI, Wireshark, Python, DNS, HTTP, TCP/TLS, packet analysis, encrypted traffic analysis, traffic obfuscation |
+| Cybersecurity & Security Architecture | Security controls, risk assessment, endpoint protection, identity security, data protection, secure system design |
+| Technical Consulting & Solutions Engineering | Business requirements, stakeholder engagement, architecture evaluation, technical recommendations, implementation planning |
+| Commercial & Solution Evaluation | Licensing costs, cloud cost drivers, architectural trade-offs, scalability, availability, reliability, operational considerations |
 
 ## Education
 
