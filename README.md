@@ -1,8 +1,8 @@
 # Hi, I'm Kenjie 👋
 
-### Cloud Solutions Engineering • Cloud Architecture • Secure Infrastructure
+### Cybersecurity Strategy & Architecture Consultant | Cloud Solutions Engineering | Secure Infrastructure
 
-I'm a **BSc (Hons) Cyber Security graduate** focused on **cloud solutions engineering and technical consulting**. I'm interested in turning business and technical requirements into secure, practical solutions — from understanding the problem and evaluating design options to building, testing and explaining the result.
+I'm a **Cybersecurity Strategy & Architecture Consultant at B&K Rosettes Ltd** focused on **cloud solutions engineering and technical consulting**. I'm interested in turning business and technical requirements into secure, practical solutions — from understanding the problem and evaluating design options to building, testing and explaining the result.
 
 My work brings together **Python automation, infrastructure and network security, architecture design, and technical communication**. I'm especially interested in customer-facing engineering roles where I can combine hands-on problem-solving with solution design.
 
