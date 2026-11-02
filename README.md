@@ -21,7 +21,7 @@ Built a **local, Azure-compatible SaaS performance reporting prototype** using P
 
 ## Research and Projects
 
-### 🔐 [Network Traffic Obfuscation Research — First-Class Project](https://github.com/kenjiegitau/defence-network-traffic-research)
+### 🔐 [Network Traffic Obfuscation Research](https://github.com/kenjiegitau/defence-network-traffic-research)
 
 **University of West London | BSc (Hons) Cyber Security**
 
@@ -37,7 +37,8 @@ Used Python and Wireshark to evaluate encrypted network traffic, identify observ
 
 📄 [View Full Research, Technical Findings & Wireshark Evidence](https://github.com/kenjiegitau/defence-network-traffic-research)
 
-### ☁️ AWS Solutions Architecture — Completed Case Study
+
+### ☁️ [AWS Solutions Architecture](https://github.com/kenjiegitau/aws-solutions-architecture)
 
 Designed and documented a secure, scalable serverless architecture for a hypothetical e-commerce application using AWS CloudFront, S3, Cognito, API Gateway, Lambda and DynamoDB.
 
@@ -45,7 +46,6 @@ The case study demonstrates cloud solution design, identity and access managemen
 
 **Technologies:** AWS · CloudFront · S3 · Cognito · API Gateway · Lambda · DynamoDB · IAM · CloudWatch
 
-**Project:** [View AWS Solutions Architecture on GitHub](https://github.com/kenjiegitau/aws-solutions-architecture)
 
 ### 🤝 [Cross-Border Technology Strategy & Security Architecture](https://github.com/kenjiegitau/cross-border-technology-consulting)
 
