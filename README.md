@@ -19,9 +19,9 @@ Built a **local, Azure-compatible SaaS performance reporting prototype** using P
 
 **Skills demonstrated:** Python · Azure Functions · Blob Storage SDK · Azurite · pytest · GitHub Actions
 
-## Research and Upcoming Projects
+## Research and Projects
 
-### 🔐 Network Traffic Obfuscation Research — First-Class Project
+### 🔐 [Network Traffic Obfuscation Research — First-Class Project](https://github.com/kenjiegitau/defence-network-traffic-research)
 
 **University of West London | BSc (Hons) Cyber Security**
 
@@ -33,22 +33,47 @@ Conducted experimental network security research investigating packet padding, t
 
 Used Python and Wireshark to evaluate encrypted network traffic, identify observable metadata patterns and assess the effectiveness and limitations of traffic obfuscation.
 
+**Skills demonstrated:** Network Security · Wireshark · Python · Encrypted Traffic Analysis · Traffic Obfuscation · Experimental Research
+
+📄 [View Full Research, Technical Findings & Wireshark Evidence](https://github.com/kenjiegitau/defence-network-traffic-research)
+
 ### 🏗️ AWS Solutions Architecture — Planned
 
 Designing a cloud architecture case study with an emphasis on requirements, availability, security, scalability, cost and the reasoning behind technical decisions.
 
-### 🤝 Technical Consulting Case Study — Planned
+### 🤝 [Cross-Border Technology Strategy & Security Architecture](https://github.com/kenjiegitau/cross-border-technology-consulting)
 
-Developing a client-focused case study covering technical assessment, solution options, recommendations, trade-offs and an implementation roadmap.
+**Technical Consulting Case Study | Cloud Architecture | Identity & Access Management (IAM)**
+
+Developed a professional technology consulting case study evaluating how an SME expanding operations between the **United Kingdom and Kenya** could establish a secure, scalable and cost-effective IT environment.
+
+Produced a structured consulting assessment covering business requirements, cybersecurity risks, cloud solution design, regulatory considerations, commercial evaluation and implementation planning.
+
+**Key Deliverables:**
+
+- Conducted business requirements analysis and developed a structured current-state technology assessment framework.
+- Designed a proposed **Microsoft 365 cloud architecture**, incorporating Microsoft Entra ID, SharePoint, Intune and Defender for Business.
+- Developed an **Identity & Access Management (IAM) strategy**, including MFA, Conditional Access, role-based permissions, least privilege and identity lifecycle management.
+- Evaluated cybersecurity risks and UK–Kenya data protection considerations.
+- Assessed licensing scenarios, technical trade-offs and commercial feasibility.
+- Produced a phased implementation roadmap with stakeholder responsibilities, decision gates and success criteria.
+
+**Outcome:** Delivered a documented cloud and cybersecurity strategy, proposed target architecture and implementation roadmap for an anonymised cross-border business scenario. The solution was designed and evaluated, not deployed.
+
+**Skills demonstrated:** Technical Consulting · Cloud Solution Architecture · IAM · Requirements Engineering · Cybersecurity Strategy · Risk Assessment · Commercial Evaluation · Stakeholder Communication
 
 ## Technical Focus
 
-| Focus area | Relevant tools and skills |
+| Focus Area | Relevant Technologies & Capabilities |
 | --- | --- |
-| Cloud and automation | Python, Azure Functions, Azure Blob Storage SDK, GitHub Actions |
-| Architecture and solutions | Requirements analysis, solution design, integration, testing, technical documentation |
-| Networking and cybersecurity | Linux, Wireshark, network traffic analysis, security research |
-| Current development focus | AWS architecture, cloud solutions engineering, technical consulting |
+| Cloud & Automation | Python, Azure Functions, Azure Blob Storage SDK, Azurite, GitHub Actions, pytest |
+| Cloud Solutions Architecture | Microsoft 365, Entra ID, SaaS architecture, secure cloud access, solution evaluation |
+| Identity & Access Management (IAM) | MFA, Conditional Access, RBAC, least privilege, user lifecycle management, access governance |
+| Technical Consulting | Business requirements, stakeholder engagement, technical assessments, solution recommendations, implementation roadmaps |
+| Cybersecurity Architecture | Security controls, risk assessment, endpoint security, data protection, governance |
+| Networking & Security Research | Linux, Wireshark, network traffic analysis, Python, traffic obfuscation research |
+| Commercial & Solution Evaluation | Licensing costs, architectural trade-offs, business requirements, scalability and operational considerations |
+| Current Development Focus | AWS Solutions Architecture, customer-facing cloud engineering, technical solution design |
 
 ## Education
 
