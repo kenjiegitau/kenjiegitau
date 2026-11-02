@@ -37,9 +37,15 @@ Used Python and Wireshark to evaluate encrypted network traffic, identify observ
 
 📄 [View Full Research, Technical Findings & Wireshark Evidence](https://github.com/kenjiegitau/defence-network-traffic-research)
 
-### 🏗️ AWS Solutions Architecture — Planned
+### ☁️ AWS Solutions Architecture — Completed Case Study
 
-Designing a cloud architecture case study with an emphasis on requirements, availability, security, scalability, cost and the reasoning behind technical decisions.
+Designed and documented a secure, scalable serverless architecture for a hypothetical e-commerce application using AWS CloudFront, S3, Cognito, API Gateway, Lambda and DynamoDB.
+
+The case study demonstrates cloud solution design, identity and access management (IAM), security, availability, scalability, cost considerations and the technical reasoning behind architectural decisions.
+
+**Technologies:** AWS · CloudFront · S3 · Cognito · API Gateway · Lambda · DynamoDB · IAM · CloudWatch
+
+**Project:** [View AWS Solutions Architecture on GitHub](https://github.com/kenjiegitau/aws-solutions-architecture)
 
 ### 🤝 [Cross-Border Technology Strategy & Security Architecture](https://github.com/kenjiegitau/cross-border-technology-consulting)
 
